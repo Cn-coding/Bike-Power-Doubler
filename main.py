@@ -1,7 +1,7 @@
 # This script is used to double the power values in a .gpx file.
 
 # Write file name here, include the .gpx extension
-FILENAME = "Cycling - Copy.gpx"
+FILENAME = ""
 
 # Creates new file name
 NEW_FILENAME = FILENAME[:-4] + "_doubled.gpx"
